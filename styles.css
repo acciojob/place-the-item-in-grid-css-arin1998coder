@@ -4,7 +4,7 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr); /* Two columns of equal width */
   grid-template-rows: repeat(2, 1fr); /* Two rows of equal height */
-  grid-gap: 10px; /* Gap between grid cells */
+  
   width: 200px;
   height: 200px;
 }
